@@ -4,5 +4,5 @@ This is a modified version of [William Laney's breakout](https://github.com/WLan
 
 The design has not been tested, so use this at your own descretion and read the datasheet.
 
-![pcb](pcb.png "PCB")
-![osh](osh.png "OSH Park")
+![pcb](images/pcb.png "PCB")
+![osh](images/osh.png "OSH Park")
